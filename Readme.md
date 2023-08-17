@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Arpit Raj</h1>
-<h3 align="center">Aspiring Java backend developer</h3>
+<h3 align="center">Aspiring Java Backend Developer</h3>
 
 [![Linkedin: Arpit](https://img.shields.io/badge/-Arpit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitraj11/)](https://www.linkedin.com/in/arpitraj11/)
 
@@ -30,7 +30,9 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/guptarpit1c"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="guptarpit1c" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/guptarpit1c"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="guptarpit1c" /></a></p><br>
+<br><br>
+<br>
 
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arpitraj11&show_icons=true&count_private=true&theme=gruvbox"/> 

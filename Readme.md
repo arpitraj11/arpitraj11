@@ -9,13 +9,13 @@
 - I am learning enthusiast with an aptitude for problem solving.
 - I have a passion for building scalable and robust web applications. With expertise in Data Structures and Algorithms, SQL, and Object-Oriented Programming.
 
-- All of my projects are available at [https://github.com/arpitraj11](https://github.com/arpitraj11)
+- All of my projects are available at [GitHub](https://github.com/arpitraj11).
 
 - Ask me about **Java, Spring Boot, MySQL, DSA**
 
 - How to reach me **guptarpit11@gmail.com**
 
-- Know about my experiences [https://docs.google.com/document/d/1HESrsENX1Fbx856YtMG5Jg8ZsJKpYxqb27kOCZ9F0HA/edit](https://docs.google.com/document/d/1HESrsENX1Fbx856YtMG5Jg8ZsJKpYxqb27kOCZ9F0HA/edit)
+- Know about my experiences [Resume](https://docs.google.com/document/d/1HESrsENX1Fbx856YtMG5Jg8ZsJKpYxqb27kOCZ9F0HA/edit).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

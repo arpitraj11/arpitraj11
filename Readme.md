@@ -1,21 +1,31 @@
 <h1 align="center">Hello, I'm Arpit Raj</h1>
-<h3 align="center">Aspiring Java Backend Developer</h3>
+<h3 align="center">Java Backend Developer</h3>
 
 [![Linkedin: Arpit](https://img.shields.io/badge/-Arpit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitraj11/)](https://www.linkedin.com/in/arpitraj11/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitraj11&label=Profile%20views&color=0e75b6&style=flat" alt="arpitraj11" /> </p>
 
+## About Me
+   I am learning enthusiast with an aptitude for problem solving. As a highly skilled Java and Spring Boot developer, I have a passion for building 
+   scalable and robust web applications. With expertise in Data Structures and Algorithms, SQL, and Object-Oriented Programming, I bring a unique blend of 
+   technical knowledge and problem-solving skills to any project.
+  
+- I’m currently working on **Java Projects using SpringBoot Framework**.
 - I’m looking to collaborate on **Backend projects.**
-- I am learning enthusiast with an aptitude for problem solving.
-- I have a passion for building scalable and robust web applications. With expertise in Data Structures and Algorithms, SQL, and Object-Oriented Programming.
-
+ 
 - All of my projects are available at [GitHub](https://github.com/arpitraj11).
 
 - Ask me about **Java, Spring Boot, MySQL, DSA**
 
 - How to reach me **guptarpit11@gmail.com**
 
-- Know about my experiences [Resume](https://docs.google.com/document/d/1HESrsENX1Fbx856YtMG5Jg8ZsJKpYxqb27kOCZ9F0HA/edit).
+- Know about my experiences [Resume](https://docs.google.com/document/d/1HESrsENX1Fbx856YtMG5Jg8ZsJKpYxqb27kOCZ9F0HA/edit
+
+## Experience 
+
+- **Apprentice** at Geekster
+  - As a software developer apprentice at Geekster, I have had the privilege of acquiring valuable knowledge and practical experience in Java, Spring Boot, MySQL, and related technologies.
+  - Through hands-on training and guidance from experienced professionals, I have gained a deeper understanding of software development best practices, problem-solving techniques, and industry trends. This apprenticeship has enabled me to develop the necessary skills to become a proficient software developer and contribute to meaningful projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

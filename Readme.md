@@ -19,7 +19,7 @@
 
 - How to reach me **guptarpit11@gmail.com**
 
-- Know about my experiences [Resume](https://docs.google.com/document/d/1HESrsENX1Fbx856YtMG5Jg8ZsJKpYxqb27kOCZ9F0HA/edit
+- Know about my experiences [Resume](https://docs.google.com/document/d/1HESrsENX1Fbx856YtMG5Jg8ZsJKpYxqb27kOCZ9F0HA/edit).
 
 ## Experience 
 

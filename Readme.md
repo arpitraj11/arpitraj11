@@ -15,7 +15,7 @@
  
 - All of my projects are available at [GitHub](https://github.com/arpitraj11).
 
-- Ask me about **Java, Spring Boot, MySQL, DSA**
+- Ask me about **Java, Spring Boot, MySQL, DSA**.
 
 - How to reach me **guptarpit11@gmail.com**
 
